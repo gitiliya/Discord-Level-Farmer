@@ -17,3 +17,7 @@ your done
 `ChannelID` - Channel ID of specific server channel you want messages to be sent in. Enable developer tools to copy a channelID
 
 `MessagesPerMin` - Amount of messages per minute, Minimum of 1 minute !
+
+## FAQ
+
+Why can I only send 1 message per minute? - Most level/ranking systems work by detecting 1 message sent by a user per minute to reduce flooding. By sending 1 message a minute you can maximize earnings without having unnecessary messages being sent.

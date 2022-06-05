@@ -20,4 +20,4 @@ your done
 
 ## FAQ
 
-Why can I only send 1 message per minute? - Most level/ranking systems work by detecting 1 message sent by a user per minute to reduce flooding. By sending 1 message a minute you can maximize earnings without having unnecessary messages being sent.
+`Why can I only send 1 message per minute?` - Most level/ranking systems work by detecting 1 message sent by a user per minute to reduce flooding. By sending 1 message a minute you can maximize earnings without having unnecessary messages being sent.

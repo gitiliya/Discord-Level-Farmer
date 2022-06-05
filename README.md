@@ -2,6 +2,12 @@
 
 Use at your own risk, discord takes account automation seriously
 
+Change Config file
+
+Run the `launch` file
+
+your done
+
 ## Config
 
 `AccountToken` - Discord Account Token
